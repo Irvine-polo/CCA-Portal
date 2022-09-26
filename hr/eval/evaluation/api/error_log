@@ -1,0 +1,616 @@
+[22-Jun-2022 09:37:10 Asia/Manila] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 151
+[22-Jun-2022 09:37:56 Asia/Manila] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 151
+[22-Jun-2022 09:38:23 Asia/Manila] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 151
+[22-Jun-2022 09:38:46 Asia/Manila] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 151
+[22-Jun-2022 09:39:17 Asia/Manila] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 151
+[22-Jun-2022 09:39:20 Asia/Manila] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 151
+[22-Jun-2022 09:39:34 Asia/Manila] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 151
+[22-Jun-2022 09:40:35 Asia/Manila] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 151
+[22-Jun-2022 09:46:53 Asia/Manila] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 151
+[22-Jun-2022 10:09:42 Asia/Manila] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 151
+[22-Jun-2022 10:10:48 Asia/Manila] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 151
+[22-Jun-2022 10:13:53 Asia/Manila] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 151
+[22-Jun-2022 10:14:07 Asia/Manila] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 151
+[22-Jun-2022 10:15:21 Asia/Manila] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 151
+[22-Jun-2022 10:19:05 Asia/Manila] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 151
+[22-Jun-2022 10:21:44 Asia/Manila] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 151
+[22-Jun-2022 10:21:50 Asia/Manila] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 151
+[22-Jun-2022 10:22:14 Asia/Manila] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 145
+[22-Jun-2022 10:22:31 Asia/Manila] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 145
+[22-Jun-2022 10:23:40 Asia/Manila] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 145
+[22-Jun-2022 10:23:47 Asia/Manila] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 145
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 300
+[22-Jun-2022 10:35:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 309
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 300
+[22-Jun-2022 10:36:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 309
+[22-Jun-2022 10:36:04 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/faculty-fetch-record.php on line 303
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 300
+[22-Jun-2022 10:36:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 309
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 300
+[22-Jun-2022 10:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 309
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 300
+[22-Jun-2022 11:06:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 309
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 195
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 300
+[22-Jun-2022 11:08:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 309
+[24-Jun-2022 22:45:55 Asia/Manila] PHP Warning:  Undefined variable $final_average in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 172
+[24-Jun-2022 22:45:55 Asia/Manila] PHP Fatal error:  Uncaught TypeError: array_sum(): Argument #1 ($array) must be of type array, null given in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php:172
+Stack trace:
+#0 /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php(172): array_sum()
+#1 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 172
+[24-Jun-2022 22:46:08 Asia/Manila] PHP Warning:  Undefined variable $final_average in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 172
+[24-Jun-2022 22:46:08 Asia/Manila] PHP Fatal error:  Uncaught TypeError: array_sum(): Argument #1 ($array) must be of type array, null given in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php:172
+Stack trace:
+#0 /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php(172): array_sum()
+#1 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 172
+[24-Jun-2022 22:46:13 Asia/Manila] PHP Warning:  Undefined variable $final_average in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 172
+[24-Jun-2022 22:46:13 Asia/Manila] PHP Fatal error:  Uncaught TypeError: array_sum(): Argument #1 ($array) must be of type array, null given in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php:172
+Stack trace:
+#0 /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php(172): array_sum()
+#1 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 172
+[24-Jun-2022 22:46:19 Asia/Manila] PHP Warning:  Undefined variable $final_average in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 172
+[24-Jun-2022 22:46:19 Asia/Manila] PHP Fatal error:  Uncaught TypeError: array_sum(): Argument #1 ($array) must be of type array, null given in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php:172
+Stack trace:
+#0 /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php(172): array_sum()
+#1 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 172
+[24-Jun-2022 22:46:34 Asia/Manila] PHP Warning:  Undefined variable $final_average in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 172
+[24-Jun-2022 22:46:34 Asia/Manila] PHP Fatal error:  Uncaught TypeError: array_sum(): Argument #1 ($array) must be of type array, null given in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php:172
+Stack trace:
+#0 /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php(172): array_sum()
+#1 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 172
+[24-Jun-2022 22:46:53 Asia/Manila] PHP Warning:  Undefined variable $final_average in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 172
+[24-Jun-2022 22:46:53 Asia/Manila] PHP Fatal error:  Uncaught TypeError: array_sum(): Argument #1 ($array) must be of type array, null given in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php:172
+Stack trace:
+#0 /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php(172): array_sum()
+#1 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 172
+[24-Jun-2022 22:48:22 Asia/Manila] PHP Warning:  Undefined variable $final_average in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 172
+[24-Jun-2022 22:48:22 Asia/Manila] PHP Fatal error:  Uncaught TypeError: array_sum(): Argument #1 ($array) must be of type array, null given in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php:172
+Stack trace:
+#0 /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php(172): array_sum()
+#1 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 172
+[25-Jun-2022 08:07:05 Asia/Manila] PHP Warning:  Undefined variable $final_average in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 172
+[25-Jun-2022 08:07:05 Asia/Manila] PHP Fatal error:  Uncaught TypeError: array_sum(): Argument #1 ($array) must be of type array, null given in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php:172
+Stack trace:
+#0 /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php(172): array_sum()
+#1 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 172
+[25-Jun-2022 08:09:43 Asia/Manila] PHP Warning:  Undefined variable $final_average in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 172
+[25-Jun-2022 08:09:43 Asia/Manila] PHP Fatal error:  Uncaught TypeError: array_sum(): Argument #1 ($array) must be of type array, null given in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php:172
+Stack trace:
+#0 /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php(172): array_sum()
+#1 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 172
+[17-Jul-2022 21:06:52 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:06:52 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:06:52 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:06:52 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:06:52 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:06:52 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:06:52 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:06:52 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:06:52 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:06:52 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:06:52 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:06:52 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:06:52 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:06:52 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:06:52 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:06:52 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:06:52 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:06:52 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:06:52 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:06:52 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:06:52 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:06:52 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 300
+[17-Jul-2022 21:06:52 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 318
+[17-Jul-2022 21:06:52 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 388
+[17-Jul-2022 21:07:13 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:13 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:13 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:13 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:13 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:13 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:13 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:13 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:13 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:13 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:13 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:13 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:13 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:13 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:13 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:13 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:13 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:13 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:13 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:13 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:13 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:13 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 300
+[17-Jul-2022 21:07:13 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 318
+[17-Jul-2022 21:07:13 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 388
+[17-Jul-2022 21:07:16 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:16 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:16 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:16 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:16 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:16 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:16 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:16 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:16 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:16 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:16 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:16 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:16 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:16 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:16 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:16 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:16 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:16 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:16 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:16 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:16 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:07:16 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 300
+[17-Jul-2022 21:07:16 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 318
+[17-Jul-2022 21:07:16 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 388
+[17-Jul-2022 21:08:53 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:53 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:53 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:53 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:53 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:53 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:53 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:53 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:53 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:53 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:53 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:53 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:53 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:53 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:53 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:53 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:53 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:53 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:53 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:53 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:53 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:53 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 300
+[17-Jul-2022 21:08:53 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 318
+[17-Jul-2022 21:08:53 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 388
+[17-Jul-2022 21:08:58 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:58 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:58 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:58 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:58 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:58 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:58 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:58 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:58 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:58 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:58 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:58 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:58 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:58 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:58 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:58 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:58 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:58 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:58 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:58 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:58 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:08:58 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 300
+[17-Jul-2022 21:08:58 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 318
+[17-Jul-2022 21:08:58 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 388
+[17-Jul-2022 21:12:45 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:45 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:45 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:45 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:45 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:45 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:45 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:45 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:45 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:45 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:45 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:45 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:45 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:45 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:45 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:45 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:45 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:45 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:45 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:45 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:45 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:45 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 300
+[17-Jul-2022 21:12:45 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 318
+[17-Jul-2022 21:12:45 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 388
+[17-Jul-2022 21:12:48 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/faculty-fetch-record.php on line 328
+[17-Jul-2022 21:12:48 Asia/Manila] PHP Warning:  Undefined variable $answer in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/faculty-fetch-record.php on line 393
+[17-Jul-2022 21:12:48 Asia/Manila] PHP Warning:  Undefined variable $answer in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/faculty-fetch-record.php on line 393
+[17-Jul-2022 21:12:48 Asia/Manila] PHP Warning:  Undefined variable $answer in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/faculty-fetch-record.php on line 393
+[17-Jul-2022 21:12:48 Asia/Manila] PHP Warning:  Undefined variable $answer in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/faculty-fetch-record.php on line 393
+[17-Jul-2022 21:12:48 Asia/Manila] PHP Warning:  Undefined variable $answer in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/faculty-fetch-record.php on line 393
+[17-Jul-2022 21:12:48 Asia/Manila] PHP Warning:  Undefined variable $answer in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/faculty-fetch-record.php on line 393
+[17-Jul-2022 21:12:48 Asia/Manila] PHP Warning:  Undefined variable $answer in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/faculty-fetch-record.php on line 393
+[17-Jul-2022 21:12:48 Asia/Manila] PHP Warning:  Undefined variable $answer in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/faculty-fetch-record.php on line 393
+[17-Jul-2022 21:12:48 Asia/Manila] PHP Warning:  Undefined variable $answer in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/faculty-fetch-record.php on line 393
+[17-Jul-2022 21:12:48 Asia/Manila] PHP Warning:  Undefined variable $answer in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/faculty-fetch-record.php on line 393
+[17-Jul-2022 21:12:48 Asia/Manila] PHP Warning:  Undefined variable $answer in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/faculty-fetch-record.php on line 393
+[17-Jul-2022 21:12:48 Asia/Manila] PHP Warning:  Undefined variable $answer in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/faculty-fetch-record.php on line 393
+[17-Jul-2022 21:12:48 Asia/Manila] PHP Warning:  Undefined variable $answer in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/faculty-fetch-record.php on line 393
+[17-Jul-2022 21:12:48 Asia/Manila] PHP Warning:  Undefined variable $answer in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/faculty-fetch-record.php on line 393
+[17-Jul-2022 21:12:48 Asia/Manila] PHP Warning:  Undefined variable $answer in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/faculty-fetch-record.php on line 393
+[17-Jul-2022 21:12:48 Asia/Manila] PHP Warning:  Undefined variable $answer in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/faculty-fetch-record.php on line 393
+[17-Jul-2022 21:12:48 Asia/Manila] PHP Warning:  Undefined variable $answer in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/faculty-fetch-record.php on line 393
+[17-Jul-2022 21:12:50 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:50 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:50 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:50 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:50 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:50 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:50 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:50 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:50 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:50 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:50 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:50 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:50 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:50 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:50 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:50 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:50 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:50 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:50 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:50 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:50 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:12:50 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 300
+[17-Jul-2022 21:12:50 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 318
+[17-Jul-2022 21:12:50 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 388
+[17-Jul-2022 21:13:17 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:13:17 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:13:17 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:13:17 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:13:17 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:13:17 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:13:17 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:13:17 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:13:17 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:13:17 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:13:17 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:13:17 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:13:17 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:13:17 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:13:17 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:13:17 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:13:17 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:13:17 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:13:17 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:13:17 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:13:17 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 137
+[17-Jul-2022 21:13:17 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 300
+[17-Jul-2022 21:13:17 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 318
+[17-Jul-2022 21:13:17 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/geteval-result.php on line 388
+[17-Jul-2022 22:37:12 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/faculty-fetch-record.php on line 328
+[17-Jul-2022 22:37:24 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/faculty-fetch-record.php on line 328
+[17-Jul-2022 22:37:32 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/evaluation/api/faculty-fetch-record.php on line 328

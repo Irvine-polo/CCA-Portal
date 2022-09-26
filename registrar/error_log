@@ -1,0 +1,9 @@
+[21-Jun-2022 14:17:30 Asia/Manila] PHP Warning:  include(../assets/templates/registrar/header.inc.php): Failed to open stream: No such file or directory in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/registrar/index.php on line 8
+[21-Jun-2022 14:17:30 Asia/Manila] PHP Warning:  include(): Failed opening '../assets/templates/registrar/header.inc.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/registrar/index.php on line 8
+[21-Jun-2022 14:17:30 Asia/Manila] PHP Warning:  Undefined variable $conn in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/registrar/index.php on line 33
+[21-Jun-2022 14:17:30 Asia/Manila] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/registrar/index.php:33
+Stack trace:
+#0 /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/registrar/index.php(33): mysqli_query()
+#1 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/registrar/index.php on line 33
+[24-Jun-2022 13:32:28 Asia/Manila] PHP Warning:  Undefined array key "role" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/functions.inc.php on line 22

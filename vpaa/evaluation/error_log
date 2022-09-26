@@ -1,0 +1,45 @@
+[21-Jun-2022 22:09:34 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/vpaa/evaluation/eval.php on line 39
+[21-Jun-2022 22:09:34 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/vpaa/evaluation/eval.php on line 39
+[21-Jun-2022 22:09:34 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/vpaa/evaluation/eval.php on line 44
+[21-Jun-2022 22:09:34 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/vpaa/evaluation/eval.php on line 44
+[21-Jun-2022 22:09:34 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/vpaa/evaluation/eval.php on line 54
+[21-Jun-2022 22:09:34 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/vpaa/evaluation/eval.php on line 54
+[21-Jun-2022 22:09:34 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/vpaa/evaluation/eval.php on line 60
+[21-Jun-2022 22:09:34 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/vpaa/evaluation/eval.php on line 60
+[21-Jun-2022 22:09:34 Asia/Manila] PHP Warning:  Undefined array key "redirectURL" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/templates/vpaa/footer.inc.php on line 54
+[21-Jun-2022 22:10:23 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/vpaa/evaluation/eval.php on line 39
+[21-Jun-2022 22:10:23 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/vpaa/evaluation/eval.php on line 39
+[21-Jun-2022 22:10:23 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/vpaa/evaluation/eval.php on line 44
+[21-Jun-2022 22:10:23 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/vpaa/evaluation/eval.php on line 44
+[21-Jun-2022 22:10:23 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/vpaa/evaluation/eval.php on line 54
+[21-Jun-2022 22:10:23 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/vpaa/evaluation/eval.php on line 54
+[21-Jun-2022 22:10:23 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/vpaa/evaluation/eval.php on line 60
+[21-Jun-2022 22:10:23 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/vpaa/evaluation/eval.php on line 60
+[21-Jun-2022 22:10:23 Asia/Manila] PHP Warning:  Undefined array key "redirectURL" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/templates/vpaa/footer.inc.php on line 54
+[22-Jun-2022 09:35:26 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/vpaa/evaluation/eval.php on line 39
+[22-Jun-2022 09:35:26 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/vpaa/evaluation/eval.php on line 39
+[22-Jun-2022 09:35:26 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/vpaa/evaluation/eval.php on line 44
+[22-Jun-2022 09:35:26 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/vpaa/evaluation/eval.php on line 44
+[22-Jun-2022 09:35:26 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/vpaa/evaluation/eval.php on line 54
+[22-Jun-2022 09:35:26 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/vpaa/evaluation/eval.php on line 54
+[22-Jun-2022 09:35:26 Asia/Manila] PHP Warning:  Undefined array key "redirectURL" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/templates/vpaa/footer.inc.php on line 54
+[22-Jun-2022 10:07:44 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/vpaa/evaluation/eval.php on line 39
+[22-Jun-2022 10:07:44 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/vpaa/evaluation/eval.php on line 39
+[22-Jun-2022 10:07:44 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/vpaa/evaluation/eval.php on line 44
+[22-Jun-2022 10:07:44 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/vpaa/evaluation/eval.php on line 44
+[22-Jun-2022 10:07:44 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/vpaa/evaluation/eval.php on line 54
+[22-Jun-2022 10:07:44 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/vpaa/evaluation/eval.php on line 54
+[22-Jun-2022 10:07:44 Asia/Manila] PHP Warning:  Undefined array key "redirectURL" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/templates/vpaa/footer.inc.php on line 54
+[17-Jul-2022 22:27:11 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/vpaa/evaluation/eval.php on line 39
+[17-Jul-2022 22:27:11 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/vpaa/evaluation/eval.php on line 39
+[17-Jul-2022 22:27:11 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/vpaa/evaluation/eval.php on line 44
+[17-Jul-2022 22:27:11 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/vpaa/evaluation/eval.php on line 44
+[17-Jul-2022 22:27:11 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/vpaa/evaluation/eval.php on line 54
+[17-Jul-2022 22:27:11 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/vpaa/evaluation/eval.php on line 54
+[17-Jul-2022 22:27:11 Asia/Manila] PHP Warning:  Undefined array key "redirectURL" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/templates/vpaa/footer.inc.php on line 54
+[17-Jul-2022 22:28:07 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/vpaa/evaluation/eval.php on line 39
+[17-Jul-2022 22:28:07 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/vpaa/evaluation/eval.php on line 39
+[17-Jul-2022 22:28:07 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/vpaa/evaluation/eval.php on line 44
+[17-Jul-2022 22:28:07 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/vpaa/evaluation/eval.php on line 44
+[17-Jul-2022 22:28:07 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/vpaa/evaluation/eval.php on line 54
+[17-Jul-2022 22:28:07 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/vpaa/evaluation/eval.php on line 54

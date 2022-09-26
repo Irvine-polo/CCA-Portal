@@ -1,0 +1,301 @@
+:root {
+	--green: #4F6932;
+	--darkgreen: #00330E;
+	--brown: #A87D53;
+	--darkbrown: #866442;
+}
+
+/*TEMPLATE CUSTOMIZE*/
+.sidebar,
+.sidebar-content {
+	background: var(--green);
+}
+
+.sidebar .sidebar-item,
+.sidebar .sidebar-item .sidebar-link {
+	background: transparent;
+}
+
+.sidebar .sidebar-item.active,
+.sidebar .sidebar-item.active .sidebar-link {
+	background: var(--brown);
+	border-left-color: var(--darkgreen);
+}
+
+.sidebar-item .fa-solid {
+	width: 15px;
+
+	text-align: center;
+}
+
+.sidebar-toggle:hover .hamburger,
+.sidebar-toggle:hover .hamburger::before,
+.sidebar-toggle:hover .hamburger::after {
+	background: var(--green);
+}
+
+.nav-tabs {
+	border-color: var(--green);
+}
+
+.nav-tabs .nav-item .nav-link {
+	color: var(--green);
+}
+
+.nav-tabs .nav-item:hover .nav-link {
+	border-color: var(--green);
+}
+
+.nav-tabs .nav-item .nav-link.active {
+	color: white;
+
+	background: var(--green);
+	border-color: var(--green);
+}
+
+.nav-icon .indicator {
+	background: var(--green);
+}
+
+.navbar-nav .nav-icon {
+	color: var(--green);
+}
+
+.page-item .page-link {
+	color: var(--green);
+	text-decoration: none;
+}
+
+.page-item.active .page-link {
+	color: #fff;
+	background-color: var(--green);
+	border-color: var(--green);
+}
+
+.page-item .page-link:focus,
+.page-item.active .page-link:active,
+.page-item.active .page-link:focus {
+	box-shadow: 0 0 0 0.25rem rgba(105, 128, 81, 0.5);
+}
+
+.dropdown-menu .dropdown-item:active {
+	background: var(--green);
+}
+
+.stat {
+	background: transparent;
+	border: 3px solid var(--brown);
+	border-bottom-color: transparent;
+}
+
+/*GLOBAL*/
+::selection {
+	background: var(--green);
+	color: #ffffff;
+}
+
+textarea:active,
+textarea:focus,
+input:active,
+input:focus,
+select:focus,
+select:active {
+	border-color: var(--green) !important;
+	box-shadow: 0 0 0 0.25rem rgba(105, 128, 81, 0.5) !important;
+}
+
+option[value=""][disabled] {
+	display: none;
+}
+
+.form-check {
+	cursor: pointer;
+}
+
+.card {
+	border-bottom: 3px solid var(--green);
+}
+
+.list-group .list-group-item.active {
+	color: white;
+
+	background: var(--green);
+	border-color: var(--green);
+}
+
+/*CUSTOM*/
+.btn-main {
+	color: #fff;
+	background-color: #4f6932;
+	border-color: #4f6932;
+}
+
+.btn-main:hover {
+	color: #fff;
+	background-color: #43592b;
+	border-color: #3f5428;
+}
+
+.btn-main:focus {
+	color: #fff;
+	background-color: #43592b;
+	border-color: #3f5428;
+	box-shadow: 0 0 0 0.25rem rgba(105, 128, 81, 0.5);
+}
+
+.btn-main:active {
+	color: #fff;
+	background-color: #3f5428;
+	border-color: #3b4f26;
+}
+
+.table-border-dark tr,
+.table-border-dark th,
+.table-border-dark td {
+	border-color: #262626 !important;
+}
+
+table .text-xs {
+	font-size: 6px;
+}
+
+.table th,
+.table td {
+	vertical-align: middle;
+}
+
+.table.table-striped-light tbody tr.bg-gray-100 th,
+.table.table-striped-light tbody tr.bg-gray-100 td {
+	background: #DBDDDF !important;
+}
+
+.bg-gray-50 {
+	background: #F2F2F2 !important;
+}
+
+.table.table-striped-light tbody tr:nth-child(odd) th,
+.table.table-striped-light tbody tr:nth-child(odd) td {
+	background: #FFFFFF;
+}
+
+.table.table-striped-light tbody tr:nth-child(odd) th,
+.table.table-striped-light tbody tr:nth-child(odd) td {
+	background: #F2F2F2;
+}
+
+.tr-none {
+	border: none !important;
+}
+
+.tr-none th {
+	padding: 0;
+}
+
+.tooltip-inner {
+	text-align: left;
+}
+
+.tooltip-inner ul {
+	margin-bottom: 0;
+}
+
+.object-fit-cover {
+	object-fit: cover;
+}
+
+.w-40 {
+	width: 40%;
+}
+
+.w-30 {
+	width: 30%;
+}
+
+.w-90px {
+	width: 90px;
+}
+
+.mw-250px {
+	width: 250px;
+	max-width: 250px;
+}
+
+.text-green {
+	color: var(--green);
+}
+
+.text-brown {
+	color: var(--brown);
+}
+
+.text-xs {
+	font-size: 6px;
+}
+
+.bg-phoenix {
+	background: #FFFFFF url("../images/photos/phoenix-background.png") 70% 50% / cover no-repeat fixed;
+}
+
+.bg-green {
+	background: var(--green);
+}
+
+.bg-white-85 {
+	background: rgba(255, 255, 255, 0.85);
+}
+
+.bg-gray-100 {
+	background: #DBDDDF !important;
+}
+
+.form-login {
+	max-width: 400px;
+}
+
+/*MEDIA PRINT*/
+@media print {
+	@page {
+		margin: 24px 0;
+    }
+
+	table {
+		page-break-after: auto;
+	}
+
+	tr {
+		page-break-inside: avoid;
+		page-break-after: auto;
+	}
+
+	th,
+	td {
+		page-break-inside: avoid;
+		page-break-after: auto;
+	}
+
+	thead {
+		display: table-header-group;
+	}
+
+	tfoot {
+		display: table-footer-group;
+	}
+
+	.content {
+		padding: 0;
+	}
+
+	.bg-phoenix {
+		background: white;
+	}
+
+	.cca-card {
+		border: none !important;
+		box-shadow: none !important;
+		border-radius: 0;
+	}
+
+	.cca-card .card-body {
+		padding: 0 24px;
+	}
+}

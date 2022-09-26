@@ -1,0 +1,12 @@
+[21-Jun-2022 09:28:50 Asia/Manila] PHP Warning:  Undefined array key "start" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/api/admin/user.inc.php on line 28
+[21-Jun-2022 09:28:50 Asia/Manila] PHP Warning:  Undefined array key "length" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/api/admin/user.inc.php on line 28
+[21-Jun-2022 09:28:50 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/api/admin/user.inc.php:30
+Stack trace:
+#0 /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/api/admin/user.inc.php(30): mysqli_query()
+#1 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/api/admin/user.inc.php on line 30
+[26-Jun-2022 04:37:48 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ljgtmurty1m6_cca_portal_db.student_grades' doesn't exist in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/api/admin/student-grade.inc.php:41
+Stack trace:
+#0 /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/api/admin/student-grade.inc.php(41): mysqli_query()
+#1 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/api/admin/student-grade.inc.php on line 41

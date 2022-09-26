@@ -1,0 +1,100 @@
+[05-Jul-2022 16:30:28 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function selected() in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php on line 154
+[05-Jul-2022 16:30:44 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function selected() in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php on line 154
+[05-Jul-2022 16:30:47 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function selected() in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php on line 154
+[05-Jul-2022 16:32:05 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function selected() in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php on line 154
+[05-Jul-2022 16:32:57 Asia/Manila] PHP Parse error:  syntax error, unexpected token "<" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php on line 115
+[05-Jul-2022 16:33:01 Asia/Manila] PHP Parse error:  syntax error, unexpected token "<" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php on line 115
+[05-Jul-2022 16:33:05 Asia/Manila] PHP Parse error:  syntax error, unexpected token "<" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php on line 115
+[05-Jul-2022 16:33:18 Asia/Manila] PHP Parse error:  syntax error, unexpected token "<" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php on line 115
+[05-Jul-2022 16:33:35 Asia/Manila] PHP Parse error:  syntax error, unexpected token "<" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php on line 115
+[05-Jul-2022 16:33:39 Asia/Manila] PHP Parse error:  syntax error, unexpected token "<" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php on line 115
+[05-Jul-2022 16:34:43 Asia/Manila] PHP Parse error:  syntax error, unexpected token "<" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php on line 115
+[05-Jul-2022 16:35:00 Asia/Manila] PHP Parse error:  syntax error, unexpected token "<" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php on line 115
+[05-Jul-2022 16:35:33 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function selected() in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php on line 154
+[05-Jul-2022 16:35:51 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function selected() in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php:121
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php on line 121
+[05-Jul-2022 16:35:52 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function selected() in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php:121
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php on line 121
+[05-Jul-2022 16:35:56 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function selected() in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php:121
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php on line 121
+[05-Jul-2022 16:36:38 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function selected() in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php on line 154
+[05-Jul-2022 16:37:46 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function selected() in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php:117
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php on line 117
+[05-Jul-2022 16:37:51 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function selected() in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php:117
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php on line 117
+[05-Jul-2022 16:38:27 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function selected() in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php on line 154
+[05-Jul-2022 16:38:32 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function selected() in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php on line 154
+[05-Jul-2022 16:39:11 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function selected() in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php on line 154
+[05-Jul-2022 16:39:39 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function selected() in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php on line 154
+[05-Jul-2022 16:39:47 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function selected() in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/educational-background.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/educational-background.php on line 89
+[05-Jul-2022 16:39:51 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function selected() in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/educational-background.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/educational-background.php on line 89
+[05-Jul-2022 16:39:54 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function selected() in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php on line 154
+[05-Jul-2022 16:40:54 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function selected() in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php:121
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php on line 121
+[05-Jul-2022 16:42:05 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function selected() in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php:156
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php on line 156
+[05-Jul-2022 16:42:34 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function selected() in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php:156
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php on line 156
+[05-Jul-2022 16:42:36 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function selected() in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php:156
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php on line 156
+[05-Jul-2022 16:42:37 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function selected() in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php:156
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/applicant/edit/application/index.php on line 156

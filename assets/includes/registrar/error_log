@@ -1,0 +1,3 @@
+[24-Jun-2022 13:00:16 Asia/Manila] PHP Warning:  Undefined variable $oldFinalGrade in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/registrar/student-grade.inc.php on line 252
+[24-Jun-2022 13:32:08 Asia/Manila] PHP Warning:  Undefined array key "role" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/functions.inc.php on line 22
+[24-Jun-2022 13:32:15 Asia/Manila] PHP Warning:  Undefined array key "role" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/functions.inc.php on line 22

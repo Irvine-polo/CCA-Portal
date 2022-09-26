@@ -1,0 +1,10 @@
+[21-Jun-2022 13:33:08 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/admin/edit/user.php on line 30
+[21-Jun-2022 13:41:32 Asia/Manila] PHP Warning:  Undefined array key "firstbane" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/admin/edit/user.php on line 71
+[22-Jun-2022 09:08:34 Asia/Manila] PHP Warning:  Undefined variable $row2 in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/admin/edit/student-grade.php on line 150
+[22-Jun-2022 09:08:34 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/admin/edit/student-grade.php on line 150
+[22-Jun-2022 09:08:34 Asia/Manila] PHP Warning:  Undefined variable $row2 in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/admin/edit/student-grade.php on line 157
+[22-Jun-2022 09:08:34 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/admin/edit/student-grade.php on line 157
+[22-Jun-2022 09:08:34 Asia/Manila] PHP Warning:  Undefined variable $row2 in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/admin/edit/student-grade.php on line 164
+[22-Jun-2022 09:08:34 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/admin/edit/student-grade.php on line 164
+[22-Jun-2022 09:08:34 Asia/Manila] PHP Warning:  Undefined variable $row2 in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/admin/edit/student-grade.php on line 171
+[22-Jun-2022 09:08:34 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/admin/edit/student-grade.php on line 171

@@ -1,0 +1,57 @@
+[17-Jun-2022 14:39:36 Asia/Manila] PHP Warning:  Undefined array key "role" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/functions.inc.php on line 22
+[17-Jun-2022 21:23:42 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 40
+[17-Jun-2022 21:23:42 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 41
+[17-Jun-2022 21:23:42 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 43
+[17-Jun-2022 21:23:42 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 45
+[17-Jun-2022 21:23:42 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 46
+[17-Jun-2022 21:23:42 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 128
+[17-Jun-2022 21:23:42 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 128
+[17-Jun-2022 21:23:42 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 167
+[17-Jun-2022 21:23:42 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 167
+[17-Jun-2022 21:23:42 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 167
+[17-Jun-2022 21:23:42 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 167
+[17-Jun-2022 21:23:42 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 167
+[17-Jun-2022 21:23:42 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 167
+[17-Jun-2022 21:23:52 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 40
+[17-Jun-2022 21:23:52 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 41
+[17-Jun-2022 21:23:52 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 43
+[17-Jun-2022 21:23:52 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 45
+[17-Jun-2022 21:23:52 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 46
+[17-Jun-2022 21:23:52 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 128
+[17-Jun-2022 21:23:52 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 128
+[17-Jun-2022 21:23:52 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 167
+[17-Jun-2022 21:23:52 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 167
+[17-Jun-2022 21:23:52 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 167
+[17-Jun-2022 21:23:52 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 167
+[17-Jun-2022 21:23:52 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 167
+[17-Jun-2022 21:23:52 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 167
+[17-Jun-2022 21:23:59 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 40
+[17-Jun-2022 21:23:59 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 41
+[17-Jun-2022 21:23:59 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 43
+[17-Jun-2022 21:23:59 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 45
+[17-Jun-2022 21:23:59 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 46
+[17-Jun-2022 21:23:59 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 128
+[17-Jun-2022 21:23:59 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 128
+[17-Jun-2022 21:23:59 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 167
+[17-Jun-2022 21:23:59 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 167
+[17-Jun-2022 21:23:59 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 167
+[17-Jun-2022 21:23:59 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 167
+[17-Jun-2022 21:26:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 40
+[17-Jun-2022 21:26:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 41
+[17-Jun-2022 21:26:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 43
+[17-Jun-2022 21:26:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 45
+[17-Jun-2022 21:26:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 46
+[17-Jun-2022 21:26:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 128
+[17-Jun-2022 21:26:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 128
+[17-Jun-2022 21:26:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 167
+[17-Jun-2022 21:26:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/hr/eval/edit-questions.php on line 167
+[18-Jun-2022 09:05:04 Asia/Manila] PHP Warning:  Undefined array key "role" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/functions.inc.php on line 22
+[18-Jun-2022 09:08:14 Asia/Manila] PHP Warning:  Undefined array key "role" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/functions.inc.php on line 22
+[18-Jun-2022 09:08:16 Asia/Manila] PHP Warning:  Undefined array key "role" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/functions.inc.php on line 22
+[18-Jun-2022 10:53:12 Asia/Manila] PHP Warning:  Undefined array key "role" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/functions.inc.php on line 22
+[18-Jun-2022 10:55:03 Asia/Manila] PHP Warning:  Undefined array key "role" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/functions.inc.php on line 22
+[18-Jun-2022 10:55:04 Asia/Manila] PHP Warning:  Undefined array key "role" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/functions.inc.php on line 22
+[19-Jun-2022 17:37:26 Asia/Manila] PHP Warning:  Undefined array key "role" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/functions.inc.php on line 22
+[19-Jun-2022 17:46:43 Asia/Manila] PHP Warning:  Undefined array key "role" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/functions.inc.php on line 22
+[20-Jun-2022 22:52:28 Asia/Manila] PHP Warning:  Undefined array key "role" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/functions.inc.php on line 22
+[25-Jun-2022 11:26:08 Asia/Manila] PHP Warning:  Undefined array key "role" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/functions.inc.php on line 22

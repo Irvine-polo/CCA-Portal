@@ -1,0 +1,10 @@
+[23-Jun-2022 20:15:21 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/api/secretary/user.inc.php:23
+Stack trace:
+#0 /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/api/secretary/user.inc.php(23): mysqli_query()
+#1 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/api/secretary/user.inc.php on line 23
+[23-Jun-2022 20:19:15 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'intitute' in 'where clause' in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/api/secretary/user.inc.php:23
+Stack trace:
+#0 /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/api/secretary/user.inc.php(23): mysqli_query()
+#1 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/api/secretary/user.inc.php on line 23

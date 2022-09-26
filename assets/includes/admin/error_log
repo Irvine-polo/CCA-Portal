@@ -1,0 +1,39 @@
+[23-Jun-2022 19:41:08 Asia/Manila] PHP Warning:  Undefined variable $oldFinalGrade in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/admin/student-grade.inc.php on line 252
+[23-Jun-2022 19:41:32 Asia/Manila] PHP Warning:  Undefined variable $oldFinalGrade in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/admin/student-grade.inc.php on line 252
+[23-Jun-2022 19:41:56 Asia/Manila] PHP Warning:  Undefined variable $oldFinalGrade in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/admin/student-grade.inc.php on line 252
+[24-Jun-2022 17:59:02 Asia/Manila] PHP Warning:  Undefined array key "role" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/functions.inc.php on line 22
+[25-Jun-2022 09:08:58 Asia/Manila] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string * int in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/admin/report-card.inc.php:174
+Stack trace:
+#0 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/admin/report-card.inc.php on line 174
+[26-Jun-2022 02:39:53 Asia/Manila] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/admin/student-grade.inc.php:37
+Stack trace:
+#0 /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/admin/student-grade.inc.php(37): fopen()
+#1 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/admin/student-grade.inc.php on line 37
+[05-Jul-2022 17:52:41 Asia/Manila] PHP Warning:  Undefined variable $sql2 in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/admin/freshmen-applicant.inc.php on line 79
+[05-Jul-2022 17:52:41 Asia/Manila] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/admin/freshmen-applicant.inc.php:79
+Stack trace:
+#0 /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/admin/freshmen-applicant.inc.php(79): mysqli_query()
+#1 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/admin/freshmen-applicant.inc.php on line 79
+[05-Jul-2022 17:54:11 Asia/Manila] PHP Warning:  Undefined variable $sql2 in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/admin/freshmen-applicant.inc.php on line 79
+[05-Jul-2022 17:54:11 Asia/Manila] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/admin/freshmen-applicant.inc.php:79
+Stack trace:
+#0 /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/admin/freshmen-applicant.inc.php(79): mysqli_query()
+#1 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/admin/freshmen-applicant.inc.php on line 79
+[13-Jul-2022 19:26:58 Asia/Manila] PHP Warning:  Undefined array key 2 in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/admin/user.inc.php on line 92
+[13-Jul-2022 19:26:58 Asia/Manila] PHP Warning:  Undefined array key 3 in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/admin/user.inc.php on line 93
+[13-Jul-2022 19:26:58 Asia/Manila] PHP Warning:  Undefined array key 4 in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/admin/user.inc.php on line 94
+[13-Jul-2022 19:26:58 Asia/Manila] PHP Warning:  Undefined array key 7 in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/admin/user.inc.php on line 96
+[13-Jul-2022 19:26:58 Asia/Manila] PHP Warning:  Undefined array key 1 in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/admin/user.inc.php on line 97
+[13-Jul-2022 19:26:58 Asia/Manila] PHP Warning:  Undefined array key 6 in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/admin/user.inc.php on line 98
+[13-Jul-2022 19:26:58 Asia/Manila] PHP Warning:  Undefined array key 5 in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/admin/user.inc.php on line 100
+[13-Jul-2022 19:27:15 Asia/Manila] PHP Warning:  Undefined array key 2 in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/admin/user.inc.php on line 92
+[13-Jul-2022 19:27:15 Asia/Manila] PHP Warning:  Undefined array key 3 in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/admin/user.inc.php on line 93
+[13-Jul-2022 19:27:15 Asia/Manila] PHP Warning:  Undefined array key 4 in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/admin/user.inc.php on line 94
+[13-Jul-2022 19:27:15 Asia/Manila] PHP Warning:  Undefined array key 7 in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/admin/user.inc.php on line 96
+[13-Jul-2022 19:27:15 Asia/Manila] PHP Warning:  Undefined array key 1 in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/admin/user.inc.php on line 97
+[13-Jul-2022 19:27:15 Asia/Manila] PHP Warning:  Undefined array key 6 in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/admin/user.inc.php on line 98
+[13-Jul-2022 19:27:15 Asia/Manila] PHP Warning:  Undefined array key 5 in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/admin/user.inc.php on line 100

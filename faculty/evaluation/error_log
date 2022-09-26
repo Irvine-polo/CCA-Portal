@@ -1,0 +1,199 @@
+[20-Jun-2022 22:15:47 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[20-Jun-2022 22:15:47 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[20-Jun-2022 22:15:47 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[20-Jun-2022 22:15:47 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[20-Jun-2022 22:15:47 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[20-Jun-2022 22:15:47 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[20-Jun-2022 22:15:47 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 60
+[20-Jun-2022 22:15:47 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 60
+[20-Jun-2022 22:15:47 Asia/Manila] PHP Warning:  Undefined array key "redirectURL" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/templates/faculty/footer.inc.php on line 54
+[21-Jun-2022 22:02:32 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[21-Jun-2022 22:02:32 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[21-Jun-2022 22:02:32 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[21-Jun-2022 22:02:32 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[21-Jun-2022 22:02:32 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[21-Jun-2022 22:02:32 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[21-Jun-2022 22:02:32 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 60
+[21-Jun-2022 22:02:32 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 60
+[21-Jun-2022 22:02:32 Asia/Manila] PHP Warning:  Undefined array key "redirectURL" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/templates/faculty/footer.inc.php on line 54
+[21-Jun-2022 22:19:20 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[21-Jun-2022 22:19:20 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[21-Jun-2022 22:19:20 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[21-Jun-2022 22:19:20 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[21-Jun-2022 22:19:20 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[21-Jun-2022 22:19:20 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[21-Jun-2022 22:19:20 Asia/Manila] PHP Warning:  Undefined array key "redirectURL" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/templates/faculty/footer.inc.php on line 54
+[21-Jun-2022 22:20:41 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[21-Jun-2022 22:20:41 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[21-Jun-2022 22:20:41 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[21-Jun-2022 22:20:41 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[21-Jun-2022 22:20:41 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[21-Jun-2022 22:20:41 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[21-Jun-2022 22:20:41 Asia/Manila] PHP Warning:  Undefined array key "redirectURL" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/templates/faculty/footer.inc.php on line 54
+[21-Jun-2022 23:06:54 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[21-Jun-2022 23:06:54 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[21-Jun-2022 23:06:54 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[21-Jun-2022 23:06:54 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[21-Jun-2022 23:06:54 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[21-Jun-2022 23:06:54 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[21-Jun-2022 23:06:54 Asia/Manila] PHP Warning:  Undefined array key "redirectURL" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/templates/faculty/footer.inc.php on line 54
+[21-Jun-2022 23:43:40 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[21-Jun-2022 23:43:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[21-Jun-2022 23:43:40 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[21-Jun-2022 23:43:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[21-Jun-2022 23:43:40 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[21-Jun-2022 23:43:40 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[21-Jun-2022 23:43:40 Asia/Manila] PHP Warning:  Undefined array key "redirectURL" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/templates/faculty/footer.inc.php on line 54
+[22-Jun-2022 09:22:45 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[22-Jun-2022 09:22:45 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[22-Jun-2022 09:22:45 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[22-Jun-2022 09:22:45 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[22-Jun-2022 09:22:45 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[22-Jun-2022 09:22:45 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[22-Jun-2022 09:22:45 Asia/Manila] PHP Warning:  Undefined array key "redirectURL" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/templates/faculty/footer.inc.php on line 54
+[22-Jun-2022 09:31:14 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[22-Jun-2022 09:31:14 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[22-Jun-2022 09:31:14 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[22-Jun-2022 09:31:14 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[22-Jun-2022 09:31:14 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[22-Jun-2022 09:31:14 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[22-Jun-2022 09:31:14 Asia/Manila] PHP Warning:  Undefined array key "redirectURL" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/templates/faculty/footer.inc.php on line 54
+[22-Jun-2022 10:05:26 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[22-Jun-2022 10:05:26 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[22-Jun-2022 10:05:26 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[22-Jun-2022 10:05:26 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[22-Jun-2022 10:05:26 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[22-Jun-2022 10:05:26 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[22-Jun-2022 10:05:26 Asia/Manila] PHP Warning:  Undefined array key "redirectURL" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/templates/faculty/footer.inc.php on line 54
+[24-Jun-2022 18:38:43 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[24-Jun-2022 18:38:43 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[24-Jun-2022 18:38:43 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[24-Jun-2022 18:38:43 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[24-Jun-2022 18:38:43 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[24-Jun-2022 18:38:43 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[24-Jun-2022 18:38:43 Asia/Manila] PHP Warning:  Undefined array key "redirectURL" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/templates/faculty/footer.inc.php on line 54
+[24-Jun-2022 22:39:39 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[24-Jun-2022 22:39:39 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[24-Jun-2022 22:39:39 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[24-Jun-2022 22:39:39 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[24-Jun-2022 22:39:39 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[24-Jun-2022 22:39:39 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[24-Jun-2022 22:39:39 Asia/Manila] PHP Warning:  Undefined array key "redirectURL" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/templates/faculty/footer.inc.php on line 54
+[25-Jun-2022 08:12:49 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[25-Jun-2022 08:12:49 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[25-Jun-2022 08:12:49 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[25-Jun-2022 08:12:49 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[25-Jun-2022 08:12:49 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[25-Jun-2022 08:12:49 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[25-Jun-2022 08:12:49 Asia/Manila] PHP Warning:  Undefined array key "redirectURL" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/templates/faculty/footer.inc.php on line 54
+[25-Jun-2022 08:24:00 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[25-Jun-2022 08:24:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[25-Jun-2022 08:24:00 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[25-Jun-2022 08:24:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[25-Jun-2022 08:24:00 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[25-Jun-2022 08:24:00 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[25-Jun-2022 08:24:00 Asia/Manila] PHP Warning:  Undefined array key "redirectURL" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/templates/faculty/footer.inc.php on line 54
+[25-Jun-2022 18:21:03 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[25-Jun-2022 18:21:03 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[25-Jun-2022 18:21:03 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[25-Jun-2022 18:21:03 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[25-Jun-2022 18:21:03 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[25-Jun-2022 18:21:03 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[25-Jun-2022 18:21:03 Asia/Manila] PHP Warning:  Undefined array key "redirectURL" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/templates/faculty/footer.inc.php on line 54
+[25-Jun-2022 20:12:42 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[25-Jun-2022 20:12:42 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[25-Jun-2022 20:12:42 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[25-Jun-2022 20:12:42 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[25-Jun-2022 20:12:42 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[25-Jun-2022 20:12:42 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[25-Jun-2022 20:12:42 Asia/Manila] PHP Warning:  Undefined array key "redirectURL" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/templates/faculty/footer.inc.php on line 54
+[16-Jul-2022 10:55:11 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[16-Jul-2022 10:55:11 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[16-Jul-2022 10:55:11 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[16-Jul-2022 10:55:11 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[16-Jul-2022 10:55:11 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[16-Jul-2022 10:55:11 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[16-Jul-2022 10:55:11 Asia/Manila] PHP Warning:  Undefined array key "redirectURL" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/templates/faculty/footer.inc.php on line 59
+[16-Jul-2022 10:55:47 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[16-Jul-2022 10:55:47 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[16-Jul-2022 10:55:47 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[16-Jul-2022 10:55:47 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[16-Jul-2022 10:55:47 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[16-Jul-2022 10:55:47 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[16-Jul-2022 10:55:47 Asia/Manila] PHP Warning:  Undefined array key "redirectURL" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/templates/faculty/footer.inc.php on line 59
+[17-Jul-2022 20:48:32 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[17-Jul-2022 20:48:32 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[17-Jul-2022 20:48:32 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[17-Jul-2022 20:48:32 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[17-Jul-2022 20:48:32 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[17-Jul-2022 20:48:32 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[17-Jul-2022 20:48:32 Asia/Manila] PHP Warning:  Undefined array key "redirectURL" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/templates/faculty/footer.inc.php on line 59
+[17-Jul-2022 20:51:24 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[17-Jul-2022 20:51:24 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[17-Jul-2022 20:51:24 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[17-Jul-2022 20:51:24 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[17-Jul-2022 20:51:24 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[17-Jul-2022 20:51:24 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[17-Jul-2022 20:51:24 Asia/Manila] PHP Warning:  Undefined array key "redirectURL" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/templates/faculty/footer.inc.php on line 59
+[17-Jul-2022 20:52:33 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[17-Jul-2022 20:52:33 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[17-Jul-2022 20:52:33 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[17-Jul-2022 20:52:33 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[17-Jul-2022 20:52:33 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[17-Jul-2022 20:52:33 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[17-Jul-2022 20:52:33 Asia/Manila] PHP Warning:  Undefined array key "redirectURL" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/templates/faculty/footer.inc.php on line 59
+[17-Jul-2022 21:55:21 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[17-Jul-2022 21:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[17-Jul-2022 21:55:21 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[17-Jul-2022 21:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[17-Jul-2022 21:55:21 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[17-Jul-2022 21:55:21 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[17-Jul-2022 21:55:21 Asia/Manila] PHP Warning:  Undefined array key "redirectURL" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/templates/faculty/footer.inc.php on line 59
+[17-Jul-2022 21:55:55 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[17-Jul-2022 21:55:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[17-Jul-2022 21:55:55 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[17-Jul-2022 21:55:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[17-Jul-2022 21:55:55 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[17-Jul-2022 21:55:55 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[17-Jul-2022 21:55:55 Asia/Manila] PHP Warning:  Undefined array key "redirectURL" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/templates/faculty/footer.inc.php on line 59
+[17-Jul-2022 22:10:39 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[17-Jul-2022 22:10:39 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[17-Jul-2022 22:10:39 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[17-Jul-2022 22:10:39 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[17-Jul-2022 22:10:39 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[17-Jul-2022 22:10:39 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[17-Jul-2022 22:10:39 Asia/Manila] PHP Warning:  Undefined array key "redirectURL" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/templates/faculty/footer.inc.php on line 59
+[17-Jul-2022 22:13:58 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[17-Jul-2022 22:13:58 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[17-Jul-2022 22:13:58 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[17-Jul-2022 22:13:58 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[17-Jul-2022 22:13:58 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[17-Jul-2022 22:13:58 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[17-Jul-2022 22:13:58 Asia/Manila] PHP Warning:  Undefined array key "redirectURL" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/templates/faculty/footer.inc.php on line 59
+[17-Jul-2022 22:20:44 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[17-Jul-2022 22:20:44 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[17-Jul-2022 22:20:44 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[17-Jul-2022 22:20:44 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[17-Jul-2022 22:20:44 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[17-Jul-2022 22:20:44 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[17-Jul-2022 22:20:44 Asia/Manila] PHP Warning:  Undefined array key "redirectURL" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/templates/faculty/footer.inc.php on line 59
+[17-Jul-2022 22:21:27 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[17-Jul-2022 22:21:27 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[17-Jul-2022 22:21:27 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[17-Jul-2022 22:21:27 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[17-Jul-2022 22:21:27 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[17-Jul-2022 22:21:27 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[17-Jul-2022 22:22:25 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[17-Jul-2022 22:22:25 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[17-Jul-2022 22:22:25 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[17-Jul-2022 22:22:25 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[17-Jul-2022 22:22:25 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[17-Jul-2022 22:22:25 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[17-Jul-2022 22:22:25 Asia/Manila] PHP Warning:  Undefined array key "redirectURL" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/templates/faculty/footer.inc.php on line 59
+[17-Jul-2022 22:25:25 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[17-Jul-2022 22:25:25 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 39
+[17-Jul-2022 22:25:25 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[17-Jul-2022 22:25:25 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 44
+[17-Jul-2022 22:25:25 Asia/Manila] PHP Warning:  Undefined variable $info in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[17-Jul-2022 22:25:25 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/faculty/evaluation/index.php on line 54
+[17-Jul-2022 22:25:25 Asia/Manila] PHP Warning:  Undefined array key "redirectURL" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/templates/faculty/footer.inc.php on line 59

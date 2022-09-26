@@ -1,0 +1,37 @@
+[14-Jul-2022 11:55:32 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/student/report-card.inc.php:139
+Stack trace:
+#0 /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/student/report-card.inc.php(139): mysqli_query()
+#1 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/student/report-card.inc.php on line 139
+[14-Jul-2022 11:55:50 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/student/report-card.inc.php:139
+Stack trace:
+#0 /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/student/report-card.inc.php(139): mysqli_query()
+#1 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/student/report-card.inc.php on line 139
+[14-Jul-2022 11:56:09 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/student/report-card.inc.php:139
+Stack trace:
+#0 /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/student/report-card.inc.php(139): mysqli_query()
+#1 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/student/report-card.inc.php on line 139
+[14-Jul-2022 11:56:14 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/student/report-card.inc.php:139
+Stack trace:
+#0 /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/student/report-card.inc.php(139): mysqli_query()
+#1 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/student/report-card.inc.php on line 139
+[14-Jul-2022 12:10:27 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'class_schedules
+ON student_grades.class_code = class_schedules.class_code
+WHER' at line 3 in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/student/report-card.inc.php:20
+Stack trace:
+#0 /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/student/report-card.inc.php(20): mysqli_query()
+#1 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/student/report-card.inc.php on line 20
+[14-Jul-2022 12:23:16 Asia/Manila] PHP Warning:  Undefined variable $row3 in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/student/report-card.inc.php on line 131
+[14-Jul-2022 12:23:16 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/student/report-card.inc.php on line 131
+[14-Jul-2022 12:23:37 Asia/Manila] PHP Warning:  Undefined variable $row3 in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/student/report-card.inc.php on line 131
+[14-Jul-2022 12:23:37 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/student/report-card.inc.php on line 131
+[14-Jul-2022 12:23:59 Asia/Manila] PHP Warning:  Undefined variable $row3 in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/student/report-card.inc.php on line 131
+[14-Jul-2022 12:23:59 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/student/report-card.inc.php on line 131
+[14-Jul-2022 12:25:24 Asia/Manila] PHP Warning:  Undefined variable $row3 in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/student/report-card.inc.php on line 131
+[14-Jul-2022 12:25:24 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/student/report-card.inc.php on line 131
+[14-Jul-2022 12:28:37 Asia/Manila] PHP Warning:  Undefined variable $row3 in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/student/report-card.inc.php on line 131
+[14-Jul-2022 12:28:37 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/assets/includes/student/report-card.inc.php on line 131

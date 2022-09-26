@@ -1,0 +1,15 @@
+[22-Jun-2022 15:24:25 Asia/Manila] PHP Warning:  Undefined array key "e" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/student/evaluation/index.php on line 11
+[22-Jun-2022 15:24:25 Asia/Manila] PHP Warning:  Undefined array key "s" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/student/evaluation/index.php on line 13
+[22-Jun-2022 15:24:25 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/student/evaluation/index.php on line 23
+[22-Jun-2022 15:24:25 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/student/evaluation/index.php on line 30
+[22-Jun-2022 15:24:25 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/student/evaluation/index.php on line 41
+[22-Jun-2022 15:36:10 Asia/Manila] PHP Warning:  Undefined array key "e" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/student/evaluation/index.php on line 11
+[22-Jun-2022 15:36:10 Asia/Manila] PHP Warning:  Undefined array key "s" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/student/evaluation/index.php on line 13
+[22-Jun-2022 15:36:10 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/student/evaluation/index.php on line 23
+[22-Jun-2022 15:36:10 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/student/evaluation/index.php on line 30
+[22-Jun-2022 15:36:10 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/student/evaluation/index.php on line 41
+[22-Jun-2022 15:37:36 Asia/Manila] PHP Warning:  Undefined array key "e" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/student/evaluation/index.php on line 11
+[22-Jun-2022 15:37:36 Asia/Manila] PHP Warning:  Undefined array key "s" in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/student/evaluation/index.php on line 13
+[22-Jun-2022 15:37:36 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/student/evaluation/index.php on line 23
+[22-Jun-2022 15:37:36 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/student/evaluation/index.php on line 30
+[22-Jun-2022 15:37:36 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/student/evaluation/index.php on line 41

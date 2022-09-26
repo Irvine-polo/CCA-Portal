@@ -1,0 +1,20 @@
+[05-Jul-2022 16:22:27 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ljgtmurty1m6_cca_portal_db.applicant_profiles' doesn't exist in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/admin/view/freshmen-applicant-profiles.php:32
+Stack trace:
+#0 /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/admin/view/freshmen-applicant-profiles.php(32): mysqli_query()
+#1 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/admin/view/freshmen-applicant-profiles.php on line 32
+[05-Jul-2022 16:23:08 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ljgtmurty1m6_cca_portal_db.applicant_profiles' doesn't exist in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/admin/view/freshmen-applicant-profiles.php:32
+Stack trace:
+#0 /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/admin/view/freshmen-applicant-profiles.php(32): mysqli_query()
+#1 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/admin/view/freshmen-applicant-profiles.php on line 32
+[05-Jul-2022 16:23:24 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ljgtmurty1m6_cca_portal_db.applicant_educational_backgrounds' doesn't exist in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/admin/view/freshmen-applicant-educational-backgrounds.php:32
+Stack trace:
+#0 /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/admin/view/freshmen-applicant-educational-backgrounds.php(32): mysqli_query()
+#1 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/admin/view/freshmen-applicant-educational-backgrounds.php on line 32
+[05-Jul-2022 16:23:27 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ljgtmurty1m6_cca_portal_db.applicant_educational_backgrounds' doesn't exist in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/admin/view/freshmen-applicant-educational-backgrounds.php:32
+Stack trace:
+#0 /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/admin/view/freshmen-applicant-educational-backgrounds.php(32): mysqli_query()
+#1 {main}
+  thrown in /home/ljgtmurty1m6/public_html/portal.cca.edu.ph/admin/view/freshmen-applicant-educational-backgrounds.php on line 32
